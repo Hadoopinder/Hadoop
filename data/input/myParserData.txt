@@ -1,0 +1,10 @@
+101|Ramesh Bamania|M|32|10,Varachha Rd,Surat,Gujarat
+102|Neeta Bamania|F|30|10,Varachha Rd,Surat,Gujarat
+103|Soma Patel|M|78|34,Janta Nagar,Ahmedabad,Gujarat
+104|Radha Patel|F|70|34,Janta Nagar,Ahmedabad,Gujarat
+105|Narhari K. Sharma|M|45|House No. 66,Birla Complex,Jodhpur,Rajasthan
+106|Sulekha Sharma|F|41|House No. 66,Birla Complex,Jodhpur,Rajasthan
+107|Burt Christian|M|52|12/130 Moxi Towers,Andheri (W),Mumbai,Maharashtra
+108|Marry D'Souza|F|51|12/130 Moxi Towers,Andheri (W),Mumbai,Maharashtra
+109|Santa Singh|M|40|H. No. 22,Model Town,Patiala,Punjab
+110|Naseebo Lal|F|23|36,M. G. Road,Banglore,Karnataka

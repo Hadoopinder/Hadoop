@@ -1,6 +1,6 @@
-# Hadoop Learning
+# Hadoop Tutorial
 
-## HBase exercises
+## Pig & HBase exercises
 
 ### Author: Jash Puniya
  
@@ -8,4 +8,5 @@ __Environment:__
 Cloudera Quickstar VM
 
 __Detailed instructions__
-Please look in HBASE_Exercises.pdf file.
+For Pig: docs/Pig_Query_demo_results.pdf
+For Hbase: docs/HBASE_CRUD_demo_results.pdf

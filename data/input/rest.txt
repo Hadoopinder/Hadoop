@@ -1,0 +1,20 @@
+001,Vietnam Restaurant,Ethnic,1615 Commerce Parkway,Bloomington,IL,61704
+002,Chops and Ribs,Casual,71 S Wacker Drive Chicago,Chicago,IL,60606
+003,Molinarinari,Fine Dining,1701 River Drive Suite 306,Moline,IL,61265
+004,Siam Cusine,Casual,3201 W White Oaks Drive Suite 204,Springfield,IL,62704
+005,Marys Diner,Fine Dining,4916 S Technopolis Drive Building 2,Sioux Falls,SD,57106
+006,Bistro Bob,Casual,625 32nd Avenue SW,Cedar Rapids,IA,52404
+007,Wiener House,Fast Food,400 Locust Street Suite 420 4th Floor,Des Moines,IA,50309
+008,Irifune Place,Fast Food,134 South 13th Street Suite 1000,Lincoln,NE,68508
+009,Estradanas,Fine Dining,1111 N 102nd Court Suite 231,Omaha,NE,68114
+010,Fargo,Ethnic,3310 Fiectner Drive Suite 108,Fargo,ND,58103
+011,Fangs,Ethnic,650 Third Avenue South,Minneapolis,MN,55402
+012,China Palace,Ethnic,3605 Hwy 52 North,Rochester,MN,55901
+013,Big Daddy Barbeque,Fast Food,1005 Ikon Drive Suite G,Jefferson City,MO,65109
+014,Wolfs,Casual,3315 E Ridgeview Street Suite 4000,Springfield,MO,65804
+015,A Cut Above,Fine Dining,30501 Agoura Road,Agoura Hills,CA,91301
+016,Ranch House,Casual,650 Harry Road,San Jose,CA,95120
+017,Burgers and Fries,Fast Food,5100 California Avenue,Bakersfield,CA,93309
+018,Hofbrau Deluxe,Fine Dining,600 Anton Blvd,Costa Mesa,CA,92626
+019,Jeans Place,Casual,100 N Sepulveda Blvd,El Segundo,CA,90245
+020,Nattos,Fast Food,1001 E Hillsdale Blvd,Foster City,CA,94404

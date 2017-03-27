@@ -1,0 +1,5 @@
+101	[first_name#Rohan,last_name#Sharma]	{(Physics,79),(Maths,85),(English,77)}
+102	[first_name#Sonal,last_name#Patel]	{(Physics,80),(Maths,82),(English,80)}
+103	[first_name#Charles,last_name#Fonseca]	{(Physics,90),(Maths,70),(English,69)}
+104	[first_name#Bitty,last_name#Sidhu]	{(Physics,83),(Maths,65),(English,81)}
+105	[first_name#Sonu,last_name#Walia]	{(Physics,75),(Maths,75),(English,80)}
